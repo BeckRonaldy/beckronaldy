@@ -13,6 +13,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=beckronaldy&show_icons=true" />
 </picture>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beckronaldy&repo=github-readme-stats)](https://github.com/beckronaldy/github-readme-stats)
+
 [![Blog](https://img.shields.io/website?label=RonaldyBeck.com&style=for-the-badge&url=https://ronaldybeck.com/)](https://ronaldybeck.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ronaldybeck)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ronaldybeck)
