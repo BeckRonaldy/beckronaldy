@@ -10,8 +10,11 @@
     srcset="https://github-readme-stats.vercel.app/api?username=beckronaldy&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=beckronaldy&show_icons=true" />
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beckronaldy&repo=validador-de-CPF)](https://github.com/BeckRonaldy/validador-de-CPF)
+  <source
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beckronaldy&repo=validador-de-CPF)](https://github.com/BeckRonaldy/validador-de-CPF)
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=beckronaldy&show_icons=true"/>
+  
 
 </picture>
 
