@@ -11,9 +11,10 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=beckronaldy&show_icons=true" />
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beckronaldy&repo=validador-de-CPF)](https://github.com/BeckRonaldy/validador-de-CPF)
+
 </picture>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beckronaldy&repo=beckronaldy)](https://github.com/beckronaldy/beckronaldy)
 
 [![Blog](https://img.shields.io/website?label=RonaldyBeck.com&style=for-the-badge&url=https://ronaldybeck.com/)](https://ronaldybeck.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ronaldybeck)
