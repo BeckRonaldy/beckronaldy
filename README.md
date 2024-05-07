@@ -18,7 +18,7 @@
 </picture>
 
 ## Estou trabalhando em:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beckronaldy&repo=validador-de-CPF)](https://github.com/BeckRonaldy/validador-de-CPF)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beckronaldy&repo=validador-de-CPF&theme=dark)](https://github.com/BeckRonaldy/validador-de-CPF)
 
 ## Minhas outras redes são:
 [![Blog](https://img.shields.io/website?label=RonaldyBeck.com&style=for-the-badge&url=https://ronaldybeck.com/)](https://ronaldybeck.com)
