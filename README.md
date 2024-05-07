@@ -1,6 +1,6 @@
 
 ## Olá! Eu sou o Ronaldy Beck 🖐️
-- Sou um entusiasta da técnologia🚀
+- Sou um entusiasta da tecnologia🚀
 - Programar e andar de moto são meus hobbys🤖
 - Atualmente sou Analista de TI🧑‍💻
 
