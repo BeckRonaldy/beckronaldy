@@ -1,6 +1,8 @@
 
 ## Olá! Eu sou o Ronaldy Beck 🖐️
-![Visualização do Meu Portfólio](https://github.com/BeckRonaldy/beckronaldy/blob/main/fontes/portifolio.png)
+- Sou um entusiasta da técnologia🚀
+- Programar e andar de moto são meus hobbys🤖
+- Atualmente sou Analista de TI🧑‍💻
 
 ## Confira meu GitHub status:
 <picture>
