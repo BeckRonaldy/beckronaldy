@@ -21,7 +21,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beckronaldy&repo=gerador_certificados&theme=dark)](https://github.com/BeckRonaldy/gerador_certificados)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beckronaldy&repo=validador_CPF&theme=dark)](https://github.com/BeckRonaldy/validador_CPF)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beckronaldy&repo=python_game&theme=dark)](https://github.com/BeckRonaldy/python_game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beckronaldy&repo=gerador_certificados&theme=dark)](https://github.com/BeckRonaldy/gerador_certificados)
 
 ## Minhas outras redes são:
 [![Blog](https://img.shields.io/website?label=RonaldyBeck.com&style=for-the-badge&url=https://ronaldybeck.com/)](https://ronaldybeck.com)
