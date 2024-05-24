@@ -1,5 +1,8 @@
 
 ## Olá! Eu sou o Ronaldy Beck 🖐️
+
+<img src="fontes/Banner GitHub.png" alt="Ronaldy Beck">
+
 - Sou um entusiasta da tecnologia🚀
 - Programar e andar de moto são meus hobbys🤖
 - Atualmente sou Analista de TI🧑‍💻
