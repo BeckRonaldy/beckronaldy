@@ -62,12 +62,3 @@ Também me aventuro em áreas como **drones**, **agronegócio** e **design**, se
 </div>
 
 ---
-
-## Contato
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-ronaldybeck%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronaldybeck@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronaldy_Beck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/beckronaldy)
-
-</div>
