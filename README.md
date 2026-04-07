@@ -77,10 +77,10 @@ Também me aventuro em áreas como **drones**, **agronegócio** e **design**, se
 <div align="center">
 
 <a href="https://github.com/BeckRonaldy">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BeckRonaldy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeckRonaldy&theme=tokyonight" />
 </a>
 <a href="https://github.com/BeckRonaldy">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeckRonaldy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeckRonaldy&theme=tokyonight" />
 </a>
 
 </div>
