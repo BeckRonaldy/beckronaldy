@@ -46,18 +46,50 @@ Também me aventuro em áreas como **drones**, **agronegócio** e **design**, se
 
 ---
 
+## Projetos em Destaque
+
+### 🏗️ EfortOS — Sistema Operacional para Incorporadoras
+> Plataforma completa que gerencia todo o ciclo de uma incorporação imobiliária — da prospecção de terrenos à cobrança e pós-venda.
+
+| | |
+|---|---|
+| **Status** | `v4.1.0` · Produção · 484 testes passando |
+| **Stack** | Next.js 16 · React 19 · TypeScript 5 · PostgreSQL · Prisma 7 · Redis · Docker |
+| **Módulos** | Dashboard Unificado · Comercial · Financeiro · Contratos · Engenharia · Suprimentos · Planejamento · Jurídico · Portal do Cliente · Admin |
+| **Destaques** | Multi-tenant · RBAC por setor · GIS com importação LandXML · Integração Brasil API · Audit trail completo |
+
+---
+
+### 🌾 GrainFlow — Sistema Operacional para Corretoras de Grãos
+> SaaS vertical para corretoras de grãos brasileiras — CRM, negociações, cadastros, financeiro, jurídico e portal do cliente em uma única plataforma.
+
+| | |
+|---|---|
+| **Status** | `v0.1.0` · Em desenvolvimento |
+| **Stack** | Next.js 16 · React 19 · TypeScript 5 · PostgreSQL · Prisma 7 · BetterAuth · Docker |
+| **Módulos** | Dashboard · CRM · Cadastros · Negociações · Financeiro · Jurídico · Mercado · Portal do Cliente |
+| **Destaques** | Multi-tenant por organização · 4 modalidades de negociação (disponível, fixação, barter, CPR) · Landing page com captura de leads |
+
+---
+
 ## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BeckRonaldy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeckRonaldy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<a href="https://github.com/BeckRonaldy">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BeckRonaldy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
+</a>
+<a href="https://github.com/BeckRonaldy">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeckRonaldy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" />
+</a>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BeckRonaldy&theme=tokyonight&hide_border=true&locale=pt_BR)
+<a href="https://github.com/BeckRonaldy">
+  <img src="https://streak-stats.demolab.com?user=BeckRonaldy&theme=tokyonight&hide_border=true&locale=pt_BR" />
+</a>
 
 </div>
 
